@@ -24,10 +24,10 @@ Examples
 ========
 
 For example, I live in
-[WA-09](https://ballotpedia.org/Washington's_9th_Congressional_District) and here is the corresponding map:
+[WA-09](https://ballotpedia.org/Washington's_9th_Congressional_District) and here is the corresponding HTML map:
 
-[WA-09 html](http://stedy.github.io/US-congressional_district_maps/html_maps/WA-09.html)
+[WA-09 HTML](http://stedy.github.io/US-congressional_district_maps/html_maps/WA-09.html)
 
 And the geoJSON file:
 
-[WA-09 geojson](http://stedy.github.io/US-congressional_district_maps/geojson_files/WA-09.geojson)
+[WA-09 geoJSON](https://github.com/stedy/US-congressional_district_maps/blob/master/geojson_files/WA-09.geojson)
