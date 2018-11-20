@@ -8,4 +8,8 @@ the maps and [geojson.io](https://github.com/mapbox/geojson.io) to make the [geo
 
 For example, I live in WA-09 and here is the corresponding map:
 
+[WA-09](http://stedy.github.io/US-congressional_district_maps/html_maps/WA-09.html)
 
+And the geojson file:
+
+[WA-09 geojson](http://stedy.github.io/US-congressional_district_maps/blob/master/geojson_files/WA-09.geojson)

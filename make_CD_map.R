@@ -25,7 +25,8 @@ for(x in all_US_FIPS$state_district){
     addPolygons(color = "#444444", weight = 1, smoothFactor = 0.5,
                 opacity = 1.0, fillOpacity = 0.5)
   htmlwidgets::saveWidget(temp_map, file = paste0(x, ".html"))
-  geojsonio::geojson_write(temp, file= paste0("geojson_files/", x, ".geojson"))
+  geojsonio::geojson_write(temp, file= paste0("geojson_files/", x, ".geojson"),
+                           convert_wgs84 = T)
 }
 
 system("mv *.html html_maps")
